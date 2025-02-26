@@ -1,0 +1,16 @@
+.nav_first{
+    width: 100%;
+    height: 30px;
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav_first h3{
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 24px;
+    /* text-align: center; */
+}
+
